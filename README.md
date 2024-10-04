@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsifAcid
 - 👀 I’m interested in Coding and Exploring Github
-- 🌱 I’m currently learning Codeing
+- 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on nothing really
 - 📫 How to reach me, Check my bios on my profile
 
